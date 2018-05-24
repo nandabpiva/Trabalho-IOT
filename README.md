@@ -1,12 +1,10 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 05K11
-## Projeto: "Medidor de temperatura e Alimentador de Peixe"
+## Projeto: "Sensor inteligente de presença"
 ## Integrantes do grupo:
 
-* Gabriel G de Almeida
-* Gabriel B Sanches
-* Vinicius Soares
+* Fernanda Bressan Piva
 _______________________________________
 Obs:
 
